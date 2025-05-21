@@ -1,0 +1,30 @@
+h1 {
+    color:rgb(148, 7, 230);
+    font-family:'Franklin Gothic Medium'; 
+}
+
+p {
+    color:rgb(1, 206, 144);
+    font-family:'Lucida Sans';
+} 
+
+ul {
+    list-style-type: upper-latin;
+    list-style-image: url(images/pointer-icon.png);
+}
+
+ol {
+    list-style-type: circle;
+}
+
+#menu-bar a{
+    font-family: sans-serif;
+    text-decoration: none;
+    background-color: aqua;
+    padding: 5px;
+}
+
+#menu-bar a:hover{
+    background-color: rgb(4, 91, 252);
+    color:white
+}
